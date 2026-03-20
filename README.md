@@ -1,0 +1,2 @@
+# flex-knowledge-base-q1g3
+A repository to test GitHub automation for issue management.
